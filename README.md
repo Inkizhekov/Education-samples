@@ -1,2 +1,2 @@
-# My-todo-do
+# Education samples
 Project my todo do
